@@ -1,0 +1,112 @@
+
+
+
+div.banner{
+    background-color: lightgrey;
+}
+.banner-image img{
+    padding: 32px;
+    max-width:100%;
+    max-height: 100%;
+}
+.banner-heading{
+    padding: 50px;
+}
+.banner-heading .padtopp{
+    padding-top: 80px;
+}
+
+.banner-heading .padtop{
+    padding-top: 15px;
+
+}
+.banner-heading p{
+    font-size: larger;;
+}
+.btn{
+    width: 50%;
+    height: 50px;
+}
+
+
+.information-image{
+    max-width: 100%;
+    max-height: 100%;
+}
+.information{
+    margin: 32px;
+    padding: 16px;
+}
+.informational{
+    padding: 8px;
+    margin: 16px;
+    border: solid 3px black;
+
+}
+.informational:hover{
+    background-color: slategray;
+}
+
+.informational-image{
+    height: 100%;
+    width: 33%;
+
+}
+
+.card{
+    border-radius: 0;
+}
+
+
+
+
+
+.thesis{
+    padding: 32px;
+    margin: 16px;
+}
+video{
+    max-width: 100%;
+    max-height: 100%;
+}
+.thesis-image{
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+.thesis-side{
+    margin: 16px;
+    padding: 8px;
+    border: solid 3px burlywood;
+
+}
+.thesis-side:hover{
+    background-color: gray;
+}
+
+header{
+    width: 100%;
+}
+
+
+footer {
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    justify-content: space-between;
+}
+
+
+.t_p {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    float: right;
+    text-align: right;
+    padding-right: 24px;
+}
+
+
+.mobile-learning{
+    margin-left: 16px;
+}
